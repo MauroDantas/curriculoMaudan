@@ -237,6 +237,16 @@ p{
     font-weight: 500;   
 }
 
+.skills .box h4 i
+{
+   color: #03a9f4;
+   display: inline-block;
+   width: 22px;
+   font-size: 1.2em;
+}
+
+
+
 .skills .box .percent
 {
     position: relative;
@@ -253,6 +263,14 @@ p{
     height: 100%;
     background: #03a9f4
 }
+
+.skills .box .percent div h6
+{
+    margin-top: 12px;
+    color: #848c99;
+    font-weight: 500;
+}
+
 
 .interest ul
 {
@@ -271,10 +289,17 @@ p{
 .interest ul li ion-icon
 {
     color: #03a9f4;
+    font-size: 20px;
+    width: 22px;
+    display: inline-block;
+}
+
+.interest ul li i
+{
+    color: #03a9f4;
     font-size: 18px;
-    width: 20px;
-    padding-right: 4px;
-    padding-top: 4px;
+    width: 22px;
+    display: inline-block;
 }
 
 @media(max-width: 1000px)
