@@ -156,6 +156,12 @@ body {
     height: 100%;
     background: #03a9f4;
 }
+.contactInfo.contactInfo.language .percent div h5
+{
+    margin-top: 12px;
+    color: #848c99;
+    font-weight: 500;
+}
 
 .container .right_Side{
     position: relative;
